@@ -15,7 +15,7 @@ module.exports = () => {
     }
   })
   return {
-    users : users
+    users
   }
 }
 
